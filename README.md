@@ -6,7 +6,7 @@ Estudiante de Economía y Asesor Financiero en transición hacia la Ciencia de D
 
 ## Conocimientos
 
- - [AProgramación y Herramientas: Python (Pandas, NumPy, Scikit-learn, Matplotlib), R (Tidyverse), SQL, Git/GitHub, LaTeX.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Programación y Herramientas: Python (Pandas, NumPy, Scikit-learn, Matplotlib), R (Tidyverse), SQL, Git/GitHub, LaTeX.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Análisis y Modelado: Análisis Exploratorio de Datos (EDA), Estadística Inferencial, Regresión Lineal, Series de Tiempo, Modelos de Clasificación (Regresión Logística, Random Forest).](https://github.com/matiassingers/awesome-readme)
  - [Áreas de Especialidad: Economía Pública, Econometría Aplicada, Análisis de Riesgo Financiero, Gestión de Cartera de Cobranza.](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
