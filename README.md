@@ -1,14 +1,21 @@
+# Hola, soy Martin Alejos👋
 
-# Martin Alejos
+Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi enfoque principal es aplicar herramientas de Data Science y Machine Learning para resolver problemas complejos en el sector financiero.
 
-Estudiante de Economía y Asesor Financiero en transición hacia la Ciencia de Datos. Mi enfoque es la Economía Pública y la Econometría Aplicada. Estoy desarrollando habilidades en Python (Pandas, Scikit-learn), R y SQL para analizar datos y construir modelos de machine learning. Busco aplicar mi experiencia en finanzas para resolver problemas complejos en el ámbito de los datos.
+    🐍 Stack Tecnológico: Python (Pandas, Scikit-Learn), R, SQL y entornos Linux (Ubuntu/Manjaro).
+
+    ✍️ Escritura: Comparto mis aprendizajes sobre la transición de la cobranza tradicional a las predicciones basadas en datos en mi blog Econo/Data.
+
+    ♟️ Fuera de la terminal: Me encontrarás estudiando aperturas de ajedrez o escribiendo narrativa negra.
+
+"En un mundo de datos, la teoría económica es la brújula y el código es el motor."
 
 
 ## Conocimientos
 
  - [Programación y Herramientas: Python (Pandas, NumPy, Scikit-learn, Matplotlib), R (Tidyverse), SQL, Git/GitHub, LaTeX.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Análisis y Modelado: Análisis Exploratorio de Datos (EDA), Estadística Inferencial, Regresión Lineal, Series de Tiempo, Modelos de Clasificación (Regresión Logística, Random Forest).](https://github.com/matiassingers/awesome-readme)
- - [Áreas de Especialidad: Economía Pública, Econometría Aplicada, Análisis de Riesgo Financiero, Gestión de Cartera de Cobranza.](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Áreas de Especialidad: Econometría Aplicada, Análisis de Riesgo Financiero, Análisis de datos](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Estadísticas
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Martin-Gato&theme=dark)](https://git.io/streak-stats)
