@@ -4,7 +4,7 @@ Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi en
 
     🐍 Stack Tecnológico: Python (Pandas, Scikit-Learn), R, SQL y entornos Linux (Ubuntu/Manjaro).
 
-    ✍️ Escritura: Comparto mis aprendizajes sobre la transición de la cobranza tradicional a las predicciones basadas en datos en mi blog Econo/Data.
+    ✍️ Escritura: Comparto mis aprendizajes sobre la transición de la cobranza tradicional a las predicciones basadas en datos en mi blog Escorsa.
 
     ♟️ Fuera de la terminal: Me encontrarás estudiando aperturas de ajedrez o escribiendo narrativa negra.
 
