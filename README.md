@@ -8,7 +8,7 @@ Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi en
 
 "En un mundo de datos, la teoría económica es la brújula y el código es el motor."
 
-- 🔭 Recientemente estoy trabajando en una app que se encarga de la automatización del fraude bancario mediante un modelado Xboost.
+- 🔭 Recientemente estoy trabajando en una app que se encarga de la automatización de la prevención de fraude bancario mediante un modelado Xboost.
   
 - 👯 Estoy en la busqueda de colaborar con proyectos de Data Analyst, Data Science y ML.
 ## Conocimientos
