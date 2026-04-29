@@ -1,16 +1,16 @@
 # Hola, soy Martin Alejos👋
 
-Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi enfoque principal es aplicar herramientas de Data Science y Machine Learning para resolver problemas complejos en cualquier sector productivo. 
+Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi enfoque principal es aplicar herramientas de Data Analysis, Data Science y Machine Learning para resolver problemas complejos en cualquier sector productivo. 
 
-    🐍 Stack Tecnológico: Python (Pandas, Scikit-Learn), SQL, Tableau, Power BI
-
-    ✍️ Escritura: Comparto mis aprendizajes sobre la transición de la cobranza tradicional a las predicciones basadas en datos en mi blog Escorsa.
+    🐍 Stack Tecnológico: Python (Pandas, Scikit-Learn), SQL, Tableau, Power BI, Jupyter Notebook
 
     ♟️ Fuera de la terminal: Me encontrarás estudiando aperturas de ajedrez o escribiendo narrativa negra.
 
 "En un mundo de datos, la teoría económica es la brújula y el código es el motor."
 
-
+- 🔭 Recientemente estoy trabajando en una app que se encarga de la automatización del fraude bancario mediante un modelado Xboost.
+  
+- 👯 Estoy en la busqueda de colaborar con proyectos de Data Analyst, Data Science y ML.
 ## Conocimientos
 
  - [Programación y Herramientas: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Git/GitHub, LaTeX.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
