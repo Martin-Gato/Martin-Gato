@@ -1,6 +1,6 @@
 # Hola, soy Martin Alejos👋
 
-Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi enfoque principal es aplicar herramientas de Data Analysis, Data Science y Machine Learning para resolver problemas complejos en cualquier sector productivo. 
+Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi enfoque principal es aplicar herramientas de Data Science para el análisis de datos y Machine Learning para resolver problemas complejos en cualquier sector productivo. 
 
     🐍 Stack Tecnológico: Python (Pandas, Scikit-Learn), SQL, Tableau, Power BI, Jupyter Notebook
 
