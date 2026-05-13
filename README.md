@@ -9,13 +9,17 @@ Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi en
 "En un mundo de datos, la teoría económica es la brújula y el código es el motor."
 
 - 🔭 Recientemente estoy trabajando en una app que se encarga de la automatización de la prevención de fraude bancario mediante un modelado Xboost.
-  
+    
 - 👯 Estoy en la busqueda de colaborar con proyectos de Data Analyst, Data Science y ML.
 ## Conocimientos
 
  - [Programación y Herramientas: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Git/GitHub, LaTeX.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Análisis y Modelado: Análisis Exploratorio de Datos (EDA), Estadística Inferencial, Regresión Lineal, Series de Tiempo, Modelos de Clasificación (Regresión Logística, Random Forest).](https://github.com/matiassingers/awesome-readme)
  - [Áreas de Especialidad: Econometría Aplicada, Análisis de Riesgo Financiero, Análisis de datos](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+## Contacto
+Puedes contactar conmigo a través de  
+-[Linkedin](https://www.linkedin.com/in/martin-alejos-martinez-06a6aa192)
 
 ## Estadísticas
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Martin-Gato&theme=dark)](https://git.io/streak-stats)
