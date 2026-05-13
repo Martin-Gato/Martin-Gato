@@ -24,7 +24,7 @@ Puedes contactar conmigo a través de
 -[Linkedin](https://www.linkedin.com/in/martin-alejos-martinez-06a6aa192)
 
 ## Proyectos publicos
--[Modelo de riesgo crediticio]()
+-[Modelo de riesgo crediticio](https://github.com/Martin-Gato/riesgo_crediticio)
 
 ## Estadísticas
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Martin-Gato&theme=dark)](https://git.io/streak-stats)
