@@ -13,9 +13,11 @@ Soy un apasionado de la intersección entre la Economía y la Tecnología. Mi en
 - 👯 Estoy en la busqueda de colaborar con proyectos de Data Analyst, Data Science y ML.
 ## Conocimientos
 
- - [Programación y Herramientas: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Git/GitHub, LaTeX.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Análisis y Modelado: Análisis Exploratorio de Datos (EDA), Estadística Inferencial, Regresión Lineal, Series de Tiempo, Modelos de Clasificación (Regresión Logística, Random Forest).](https://github.com/matiassingers/awesome-readme)
- - [Áreas de Especialidad: Econometría Aplicada, Análisis de Riesgo Financiero, Análisis de datos](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - Programación y Herramientas: Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Git/GitHub, LaTeX.
+   
+ - Análisis y Modelado: Análisis Exploratorio de Datos (EDA), Estadística Inferencial, Regresión Lineal, Series de Tiempo, Modelos de Clasificación (Regresión Logística, Random Forest)
+   
+ - Áreas de Especialidad: Econometría Aplicada, Análisis de Riesgo Financiero, Análisis de datos
 
 ## Contacto
 Puedes contactar conmigo a través de  
